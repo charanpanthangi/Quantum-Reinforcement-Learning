@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="240" viewBox="0 0 400 240">
+  <title>Example learning curves</title>
+  <rect width="400" height="240" fill="white" stroke="black" stroke-width="1" />
+  <polyline fill="none" stroke="#4C72B0" stroke-width="2" points="40,180 80,150 120,130 160,110 200,95 240,85 280,80 320,78 360,77" />
+  <polyline fill="none" stroke="#DD8452" stroke-width="2" points="40,180 80,165 120,150 160,140 200,130 240,122 280,118 320,115 360,114" />
+  <text x="50" y="30" font-size="16" fill="#000">Learning curves (illustrative)</text>
+  <text x="42" y="195" font-size="12" fill="#000">Episodes</text>
+  <text x="10" y="60" font-size="12" fill="#000">Reward</text>
+  <circle cx="360" cy="77" r="4" fill="#4C72B0" />
+  <text x="370" y="80" font-size="12" fill="#000">Quantum</text>
+  <circle cx="360" cy="114" r="4" fill="#DD8452" />
+  <text x="370" y="117" font-size="12" fill="#000">Classical</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240">
+  <title>Final performance comparison</title>
+  <rect width="320" height="240" fill="white" stroke="black" stroke-width="1" />
+  <rect x="80" y="80" width="60" height="120" fill="#4C72B0" />
+  <rect x="180" y="110" width="60" height="90" fill="#DD8452" />
+  <text x="90" y="210" font-size="12">Quantum</text>
+  <text x="190" y="210" font-size="12">Classical</text>
+  <text x="40" y="40" font-size="16">Average reward (illustrative)</text>
+</svg>
